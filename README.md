@@ -18,8 +18,7 @@
 <h2 id="layout">🎨 Layout</h2>
 
 <p align="center">
-    <img src="../.github/example.png" alt="Image Example" width="400px">
-    <img src="../.github/example.png" alt="Image Example" width="400px">
+    <img src="/img_screens_app/image.png" alt="Image Example" width="400px">
 </p>
 
 <h2 id="technologies">💻 Technologies</h2>
