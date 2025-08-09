@@ -1,1 +1,1 @@
-# study_time
+# Study Time
